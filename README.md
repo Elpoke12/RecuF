@@ -1,7 +1,7 @@
 # RecuF
 
 Algorimo
-
+<3
 
 class ClaseFibonacci
 	{
