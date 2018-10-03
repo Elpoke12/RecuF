@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AE44BFFF-21A5-48AB-86B4-4ADB35E0F994}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecurF/Program.cs">
+    <Files>
+      <File FileName="RecurF/Program.cs" Line="46" Column="26" />
+      <File FileName="../Fibo2/Fibo2/Program.cs" Line="32" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RecurF PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

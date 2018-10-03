@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/RecurF/RecurF/bin/Debug/netcoreapp2.0/RecurF.deps.json
+/Users/osmarenrique/Projects/RecurF/RecurF/bin/Debug/netcoreapp2.0/RecurF.runtimeconfig.json
+/Users/osmarenrique/Projects/RecurF/RecurF/bin/Debug/netcoreapp2.0/RecurF.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/RecurF/RecurF/bin/Debug/netcoreapp2.0/RecurF.dll
+/Users/osmarenrique/Projects/RecurF/RecurF/bin/Debug/netcoreapp2.0/RecurF.pdb
+/Users/osmarenrique/Projects/RecurF/RecurF/obj/Debug/netcoreapp2.0/RecurF.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/RecurF/RecurF/obj/Debug/netcoreapp2.0/RecurF.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/RecurF/RecurF/obj/Debug/netcoreapp2.0/RecurF.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/RecurF/RecurF/obj/Debug/netcoreapp2.0/RecurF.AssemblyInfo.cs
+/Users/osmarenrique/Projects/RecurF/RecurF/obj/Debug/netcoreapp2.0/RecurF.dll
+/Users/osmarenrique/Projects/RecurF/RecurF/obj/Debug/netcoreapp2.0/RecurF.pdb
